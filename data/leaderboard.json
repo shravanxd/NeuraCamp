@@ -1,0 +1,108 @@
+[
+  {
+    "userId": "user2",
+    "username": "codeMaster42",
+    "rank": 1,
+    "score": 1850,
+    "problemsSolved": 78,
+    "competitions": 12,
+    "badges": ["Algorithm Expert", "Contest Winner", "100-Day Streak"],
+    "country": "United States"
+  },
+  {
+    "userId": "user5",
+    "username": "pythonista",
+    "rank": 2,
+    "score": 1720,
+    "problemsSolved": 65,
+    "competitions": 10,
+    "badges": ["Dynamic Programming Guru", "Top Contributor"],
+    "country": "Canada"
+  },
+  {
+    "userId": "user8",
+    "username": "algoQueen",
+    "rank": 3,
+    "score": 1680,
+    "problemsSolved": 72,
+    "competitions": 8,
+    "badges": ["Graph Theory Master", "50-Day Streak"],
+    "country": "India"
+  },
+  {
+    "userId": "user12",
+    "username": "codeNinja",
+    "rank": 4,
+    "score": 1590,
+    "problemsSolved": 60,
+    "competitions": 15,
+    "badges": ["Competition Champion", "Hard Problem Solver"],
+    "country": "Germany"
+  },
+  {
+    "userId": "user3",
+    "username": "devWizard",
+    "rank": 5,
+    "score": 1520,
+    "problemsSolved": 58,
+    "competitions": 9,
+    "badges": ["Tree Traversal Expert", "Fast Solver"],
+    "country": "United Kingdom"
+  },
+  {
+    "userId": "user7",
+    "username": "bitManipulator",
+    "rank": 6,
+    "score": 1480,
+    "problemsSolved": 55,
+    "competitions": 7,
+    "badges": ["Bit Manipulation Master"],
+    "country": "Japan"
+  },
+  {
+    "userId": "user15",
+    "username": "recursionPro",
+    "rank": 7,
+    "score": 1420,
+    "problemsSolved": 52,
+    "competitions": 6,
+    "badges": ["Recursion Expert"],
+    "country": "Brazil"
+  },
+  {
+    "userId": "user9",
+    "username": "sortingKing",
+    "rank": 8,
+    "score": 1380,
+    "problemsSolved": 50,
+    "competitions": 8,
+    "badges": ["Sorting Algorithm Master"],
+    "country": "Australia"
+  },
+  {
+    "userId": "user1",
+    "username": "neuraLearner",
+    "rank": 9,
+    "score": 1320,
+    "problemsSolved": 48,
+    "competitions": 5,
+    "badges": ["Consistent Solver"],
+    "country": "United States"
+  },
+  {
+    "userId": "user11",
+    "username": "hashMapHero",
+    "rank": 10,  "United States"\
+  },
+  {
+    "userId": "user11",
+    "username": "hashMapHero",
+    "rank": 10,
+    "score": 1280,
+    "problemsSolved": 45,
+    "competitions": 7,
+    "badges": ["Hash Table Expert"],
+    "country": "France"
+  }
+]
+

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Rodriguez",
+    "role": "Data Scientist at TechGiant",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "testimonial": "NeuraCamp completely transformed my career. The hands-on projects and mentorship helped me land my dream job as a data scientist. The community is incredibly supportive and the course content is cutting-edge.",
+    "rating": 5,
+    "course": "Advanced Machine Learning"
+  },
+  {
+    "id": 2,
+    "name": "Jennifer Kim",
+    "role": "ML Engineer at AI Startup",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "testimonial": "I tried several online platforms before finding NeuraCamp. The difference is night and day. The practical approach to learning and the quality of instructors is unmatched. I'm now working as an ML Engineer thanks to the skills I gained.",
+    "rating": 5,
+    "course": "Deep Learning Fundamentals"
+  },
+  {
+    "id": 3,
+    "name": "David Thompson",
+    "role": "Data Analyst at Finance Corp",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "testimonial": "As someone transitioning from a non-technical background, NeuraCamp made learning Python and data science approachable and engaging. The step-by-step curriculum and practice exercises were exactly what I needed.",
+    "rating": 4,
+    "course": "Python for Data Science"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Martinez",
+    "role": "AI Researcher",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "testimonial": "The advanced courses at NeuraCamp are truly cutting-edge. I particularly appreciated the focus on implementing research papers and the guidance from industry experts. It's helped me advance my research significantly.",
+    "rating": 5,
+    "course": "Natural Language Processing"
+  }
+]
+

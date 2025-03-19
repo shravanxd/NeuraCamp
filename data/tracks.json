@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ml-engineer",
+    "title": "Machine Learning Engineer",
+    "description": "Master the skills needed to become a professional Machine Learning Engineer. This track covers Python programming, mathematics for ML, machine learning fundamentals, deep learning, and deploying ML models to production.",
+    "level": "Intermediate to Advanced",
+    "duration": "6 months",
+    "enrolledStudents": 8745,
+    "rating": 4.8,
+    "ratingCount": 1245,
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "courses": [
+      {
+        "id": "python-for-data-science",
+        "position": 1,
+        "required": true
+      },
+      {
+        "id": "advanced-machine-learning",
+        "position": 2,
+        "required": true
+      },
+      {
+        "id": "deep-learning-fundamentals",
+        "position": 3,
+        "required": true
+      },
+      {
+        "id": "natural-language-processing",
+        "position": 4,
+        "required": false
+      },
+      {
+        "id": "computer-vision-with-pytorch",
+        "position": 5,
+        "required": false
+      }
+    ],
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Neural Networks", "Model Deployment"],
+    "careers": ["Machine Learning Engineer", "AI Engineer", "Research Scientist"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Michael Rodriguez",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 5,
+        "comment": "This track provided me with all the skills I needed to transition into a Machine Learning Engineer role. The course progression is logical and builds your knowledge step by step.",
+        "date": "March 15, 2025"
+      },
+      {
+        "id": 2,
+        "name": "Jennifer Kim",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 4,
+        "comment": "Excellent curriculum that covers both theoretical foundations and practical applications. I particularly appreciated the hands-on projects that helped solidify my understanding.",
+        "date": "February 28, 2025"
+      }
+    ]
+  },
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "description": "Develop the skills needed to become a Data Scientist. This track covers statistical analysis, data visualization, machine learning, and communicating insights from data.",
+    "level": "Beginner to Intermediate",
+    "duration": "5 months",
+    "enrolledStudents": 10245,
+    "rating": 4.7,
+    "ratingCount": 1876,
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "courses": [
+      {
+        "id": "python-for-data-science",
+        "position": 1,
+        "required": true
+      },
+      {
+        "id": "data-visualization-with-python",
+        "position": 2,
+        "required": true
+      },
+      {
+        "id": "advanced-machine-learning",
+        "position": 3,
+        "required": true
+      },
+      {
+        "id": "natural-language-processing",
+        "position": 4,
+        "required": false
+      }
+    ],
+    "skills": ["Python", "Data Analysis", "Data Visualization", "Statistical Analysis", "Machine Learning"],
+    "careers": ["Data Scientist", "Data Analyst", "Business Intelligence Analyst"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "David Thompson",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 5,
+        "comment": "As someone transitioning from a non-technical background, this track was perfect. The step-by-step approach made learning data science approachable and engaging.",
+        "date": "March 10, 2025"
+      },
+      {
+        "id": 2,
+        "name": "Sophia Martinez",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 5,
+        "comment": "The data visualization and statistical analysis courses were particularly valuable. I'm now able to extract meaningful insights from complex datasets in my job.",
+        "date": "February 20, 2025"
+      }
+    ]
+  },
+  {
+    "id": "data-engineer",
+    "title": "Data Engineer",
+    "description": "Learn the skills required to become a Data Engineer. This track covers data pipelines, databases, cloud computing, and big data technologies.",
+    "level": "Intermediate",
+    "duration": "4 months",
+    "enrolledStudents": 6543,
+    "rating": 4.6,
+    "ratingCount": 987,
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "courses": [
+      {
+        "id": "python-for-data-science",
+        "position": 1,
+        "required": true
+      },
+      {
+        "id": "data-visualization-with-python",
+        "position": 2,
+        "required": false
+      },
+      {
+        "id": "advanced-machine-learning",
+        "position": 3,
+        "required": false
+      }
+    ],
+    "skills": ["Python", "SQL", "Data Pipelines", "Cloud Computing", "Big Data"],
+    "careers": ["Data Engineer", "Database Administrator", "Cloud Data Engineer"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Alex Chen",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 4,
+        "comment": "Great introduction to data engineering concepts. The hands-on projects helped me understand how to build robust data pipelines.",
+        "date": "March 5, 2025"
+      },
+      {
+        "id": 2,
+        "name": "Maya Patel",
+        "avatar": "/placeholder.svg?height=80&width=80",
+        "rating": 5,
+        "comment": "This track provided me with the skills I needed to transition from a data analyst to a data engineer role. Highly recommended!",
+        "date": "February 15, 2025"
+      }
+    ]
+  }
+]
+

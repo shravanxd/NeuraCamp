@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "password123",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "role": "student",
+    "joinedDate": "2024-01-15",
+    "enrolledCourses": [
+      {
+        "courseId": "advanced-machine-learning",
+        "enrolledDate": "2024-01-20",
+        "progress": 42,
+        "lastAccessedDate": "2024-03-15"
+      },
+      {
+        "courseId": "python-for-data-science",
+        "enrolledDate": "2024-02-05",
+        "progress": 85,
+        "lastAccessedDate": "2024-03-10"
+      }
+    ],
+    "completedCourses": []
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "password123",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "role": "student",
+    "joinedDate": "2024-02-10",
+    "enrolledCourses": [
+      {
+        "courseId": "deep-learning-fundamentals",
+        "enrolledDate": "2024-02-15",
+        "progress": 32,
+        "lastAccessedDate": "2024-03-12"
+      }
+    ],
+    "completedCourses": [
+      {
+        "courseId": "python-for-data-science",
+        "completedDate": "2024-01-30",
+        "certificateId": "CERT-PDS-12345"
+      }
+    ]
+  }
+]
+

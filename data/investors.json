@@ -1,0 +1,85 @@
+[
+  {
+    "id": "investor-1",
+    "name": "TechVentures Capital",
+    "type": "Venture Capital",
+    "description": "Early-stage VC firm focused on B2B SaaS, AI, and developer tools.",
+    "investmentRange": {
+      "min": 250000,
+      "max": 2000000
+    },
+    "portfolio": 28,
+    "foundedYear": 2015,
+    "location": "San Francisco, CA",
+    "website": "https://techventures.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "contactPerson": "David Miller",
+    "contactEmail": "david@techventures.example.com",
+    "interests": ["AI", "SaaS", "Developer Tools", "Enterprise Software"],
+    "investmentStages": ["Seed", "Series A"],
+    "notableInvestments": ["CloudScale", "DevOpsAI", "DataSift"],
+    "bio": "TechVentures Capital was founded by former tech executives who understand the challenges of building B2B software companies. We provide not just capital, but strategic guidance, network access, and operational support to help founders scale their businesses efficiently."
+  },
+  {
+    "id": "investor-2",
+    "name": "Impact Investments",
+    "type": "Impact Fund",
+    "description": "Investment fund focused on startups addressing social and environmental challenges.",
+    "investmentRange": {
+      "min": 100000,
+      "max": 1000000
+    },
+    "portfolio": 15,
+    "foundedYear": 2018,
+    "location": "New York, NY",
+    "website": "https://impactinv.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "contactPerson": "Sophia Garcia",
+    "contactEmail": "sophia@impactinv.example.com",
+    "interests": ["Sustainability", "Healthcare", "Education", "Clean Energy"],
+    "investmentStages": ["Pre-seed", "Seed"],
+    "notableInvestments": ["SolarShare", "EduAccess", "WaterPure"],
+    "bio": "Impact Investments believes that profit and purpose can go hand in hand. We invest in early-stage companies that are solving meaningful problems and creating positive social or environmental impact alongside financial returns."
+  },
+  {
+    "id": "investor-3",
+    "name": "Robert Chen",
+    "type": "Angel Investor",
+    "description": "Serial entrepreneur and angel investor with exits in fintech and e-commerce.",
+    "investmentRange": {
+      "min": 50000,
+      "max": 250000
+    },
+    "portfolio": 12,
+    "location": "Austin, TX",
+    "website": "https://robertchen.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "contactEmail": "robert@angelinvestor.example.com",
+    "interests": ["Fintech", "E-commerce", "Marketplaces", "Consumer Apps"],
+    "investmentStages": ["Pre-seed", "Seed"],
+    "notableInvestments": ["PaySimple", "ShopDirect", "ConsumerAI"],
+    "bio": "After founding and selling two successful startups, I now focus on helping early-stage founders navigate the challenges of building a company. I invest in areas where I can add value beyond capital, leveraging my experience in fintech, e-commerce, and consumer applications."
+  },
+  {
+    "id": "investor-4",
+    "name": "HealthTech Partners",
+    "type": "Venture Capital",
+    "description": "Specialized VC firm investing exclusively in healthcare technology and digital health startups.",
+    "investmentRange": {
+      "min": 500000,
+      "max": 3000000
+    },
+    "portfolio": 20,
+    "foundedYear": 2016,
+    "location": "Boston, MA",
+    "website": "https://healthtechpartners.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "contactPerson": "Dr. Amanda Johnson",
+    "contactEmail": "amanda@healthtechpartners.example.com",
+    "interests": ["Digital Health", "Medical Devices", "Healthcare AI", "Telemedicine"],
+    "investmentStages": ["Seed", "Series A"],
+    "notableInvestments": ["TeleMed Plus", "AI Diagnostics", "PatientCare OS"],
+    "bio": "HealthTech Partners combines deep healthcare expertise with investment acumen. Our team includes physicians, healthcare executives, and experienced investors who understand the unique challenges of building and scaling healthcare technology companies."
+  }
+]
+

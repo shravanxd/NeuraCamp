@@ -1,0 +1,261 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Machine Learning Model for Customer Churn Prediction",
+    "company": "TechCorp Inc.",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "description": "Develop a machine learning model to predict customer churn based on historical data. The model should identify customers at risk of leaving and provide actionable insights.",
+    "budget": "$2,000 - $3,000",
+    "duration": "4 weeks",
+    "skills": ["Python", "Machine Learning", "Data Analysis", "scikit-learn"],
+    "status": "open",
+    "postedDate": "Posted 3 days ago",
+    "location": "Remote",
+    "applicants": 12,
+    "employerId": "emp-1"
+  },
+  {
+    "id": "proj-2",
+    "title": "Natural Language Processing for Sentiment Analysis",
+    "company": "DataInsight",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "description": "Create a sentiment analysis tool that can analyze customer reviews and social media mentions to determine sentiment towards our brand and products.",
+    "budget": "$3,500 - $5,000",
+    "duration": "6 weeks",
+    "skills": ["NLP", "Python", "Deep Learning", "BERT"],
+    "status": "open",
+    "postedDate": "Posted 5 days ago",
+    "location": "Remote",
+    "applicants": 8,
+    "employerId": "emp-2",
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "May 15, 2025",
+        "title": "Application Submitted",
+        "description": "You submitted your application for this project.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-2",
+        "date": "May 16, 2025",
+        "title": "Application Reviewed",
+        "description": "Your application was reviewed by the client.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-3",
+        "date": "May 18, 2025",
+        "title": "Interview Scheduled",
+        "description": "The client has scheduled an interview with you.",
+        "type": "interview",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "proj-3",
+    "title": "Computer Vision for Retail Analytics",
+    "company": "RetailTech Solutions",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "description": "Implement a computer vision system that can analyze in-store customer behavior, track foot traffic, and provide insights for store layout optimization.",
+    "budget": "$4,000 - $6,000",
+    "duration": "8 weeks",
+    "skills": ["Computer Vision", "Python", "TensorFlow", "OpenCV"],
+    "status": "open",
+    "postedDate": "Posted 1 week ago",
+    "location": "San Francisco, CA (Hybrid)",
+    "applicants": 15,
+    "employerId": "emp-3",
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "May 10, 2025",
+        "title": "Application Submitted",
+        "description": "You submitted your application for this project.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-2",
+        "date": "May 12, 2025",
+        "title": "Application Reviewed",
+        "description": "Your application was reviewed by the client.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-3",
+        "date": "May 15, 2025",
+        "title": "Initial Message",
+        "description": "The client sent you a message to discuss your experience.",
+        "type": "message",
+        "completed": true
+      },
+      {
+        "id": "event-4",
+        "date": "May 20, 2025 - 2:00 PM",
+        "title": "Interview Scheduled",
+        "description": "Technical interview to discuss project approach and timeline.",
+        "type": "interview",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "proj-4",
+    "title": "Data Pipeline for E-commerce Analytics",
+    "company": "ShopSmart",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "description": "Design and implement a data pipeline that collects, processes, and analyzes e-commerce data to provide actionable insights for marketing and product teams.",
+    "budget": "$5,000 - $7,000",
+    "duration": "10 weeks",
+    "skills": ["Data Engineering", "Python", "SQL", "Apache Airflow", "AWS"],
+    "status": "open",
+    "postedDate": "Posted 2 weeks ago",
+    "location": "Remote",
+    "applicants": 20,
+    "employerId": "emp-4",
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "April 25, 2025",
+        "title": "Application Submitted",
+        "description": "You submitted your application for this project.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-2",
+        "date": "April 27, 2025",
+        "title": "Application Reviewed",
+        "description": "Your application was reviewed by the client.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-3",
+        "date": "April 30, 2025",
+        "title": "Interview Completed",
+        "description": "You completed a technical interview with the client.",
+        "type": "interview",
+        "completed": true
+      },
+      {
+        "id": "event-4",
+        "date": "May 2, 2025",
+        "title": "NDA Signed",
+        "description": "You signed the Non-Disclosure Agreement.",
+        "type": "document",
+        "completed": true
+      },
+      {
+        "id": "event-5",
+        "date": "May 5, 2025",
+        "title": "Project Accepted",
+        "description": "You were selected for this project. Congratulations!",
+        "type": "acceptance",
+        "completed": true
+      },
+      {
+        "id": "event-6",
+        "date": "May 10, 2025",
+        "title": "Project Kickoff",
+        "description": "Project kickoff meeting scheduled.",
+        "type": "interview",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "proj-5",
+    "title": "Recommendation System for Streaming Platform",
+    "company": "StreamFlix",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "description": "Develop a recommendation system that suggests content to users based on their viewing history, preferences, and similar user behavior.",
+    "budget": "$6,000 - $8,000",
+    "duration": "12 weeks",
+    "skills": ["Recommendation Systems", "Python", "Machine Learning", "Collaborative Filtering"],
+    "status": "open",
+    "postedDate": "Posted 3 weeks ago",
+    "location": "Remote",
+    "applicants": 18,
+    "employerId": "emp-5",
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "January 10, 2025",
+        "title": "Application Submitted",
+        "description": "You submitted your application for this project.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-2",
+        "date": "January 12, 2025",
+        "title": "Application Reviewed",
+        "description": "Your application was reviewed by the client.",
+        "type": "application",
+        "completed": true
+      },
+      {
+        "id": "event-3",
+        "date": "January 15, 2025",
+        "title": "Interview Completed",
+        "description": "You completed a technical interview with the client.",
+        "type": "interview",
+        "completed": true
+      },
+      {
+        "id": "event-4",
+        "date": "January 18, 2025",
+        "title": "NDA Signed",
+        "description": "You signed the Non-Disclosure Agreement.",
+        "type": "document",
+        "completed": true
+      },
+      {
+        "id": "event-5",
+        "date": "January 20, 2025",
+        "title": "Project Accepted",
+        "description": "You were selected for this project.",
+        "type": "acceptance",
+        "completed": true
+      },
+      {
+        "id": "event-6",
+        "date": "April 10, 2025",
+        "title": "Project Completed",
+        "description": "You successfully completed the project.",
+        "type": "acceptance",
+        "completed": true
+      },
+      {
+        "id": "event-7",
+        "date": "April 15, 2025",
+        "title": "Payment Received",
+        "description": "Final payment for the project was processed.",
+        "type": "payment",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "id": "proj-6",
+    "title": "AI-Powered Chatbot for Customer Support",
+    "company": "ServiceNow Inc.",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "description": "Build an AI-powered chatbot that can handle customer inquiries, troubleshoot common issues, and escalate complex problems to human agents when necessary.",
+    "budget": "$4,500 - $6,500",
+    "duration": "8 weeks",
+    "skills": ["NLP", "Python", "Machine Learning", "Chatbot Development", "API Integration"],
+    "status": "open",
+    "postedDate": "Posted 1 week ago",
+    "location": "Remote",
+    "applicants": 9,
+    "employerId": "emp-6"
+  }
+]
+

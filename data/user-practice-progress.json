@@ -1,0 +1,126 @@
+[
+  {
+    "userId": "user1",
+    "completedQuestions": ["q1", "q2", "q3"],
+    "inProgressQuestions": ["q4"],
+    "streak": {
+      "current": 5,
+      "longest": 12,
+      "lastPracticeDate": "2023-06-25T18:30:00Z"
+    },
+    "statistics": {
+      "totalSolved": 3,
+      "byDifficulty": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "byCategory": {
+        "arrays": 1,
+        "stacks": 1,
+        "linked lists": 1
+      }
+    },
+    "submissions": [
+      {
+        "questionId": "q1",
+        "timestamp": "2023-06-20T14:25:00Z",
+        "status": "accepted",
+        "runtime": "76ms",
+        "memory": "42.1MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q2",
+        "timestamp": "2023-06-21T16:10:00Z",
+        "status": "accepted",
+        "runtime": "64ms",
+        "memory": "38.5MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q3",
+        "timestamp": "2023-06-22T11:45:00Z",
+        "status": "accepted",
+        "runtime": "80ms",
+        "memory": "40.2MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q4",
+        "timestamp": "2023-06-25T18:30:00Z",
+        "status": "wrong answer",
+        "runtime": null,
+        "memory": null,
+        "language": "javascript"
+      }
+    ]
+  },
+  {
+    "userId": "user2",
+    "completedQuestions": ["q1", "q2", "q4", "q5"],
+    "inProgressQuestions": ["q6"],
+    "streak": {
+      "current": 8,
+      "longest": 15,
+      "lastPracticeDate": "2023-06-25T20:15:00Z"
+    },
+    "statistics": {
+      "totalSolved": 4,
+      "byDifficulty": {
+        "easy": 2,
+        "medium": 2,
+        "hard": 0
+      },
+      "byCategory": {
+        "arrays": 1,
+        "stacks": 1,
+        "dynamic programming": 1,
+        "strings": 1
+      }
+    },
+    "submissions": [
+      {
+        "questionId": "q1",
+        "timestamp": "2023-06-18T10:30:00Z",
+        "status": "accepted",
+        "runtime": "68ms",
+        "memory": "41.8MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q2",
+        "timestamp": "2023-06-19T14:20:00Z",
+        "status": "accepted",
+        "runtime": "60ms",
+        "memory": "38.2MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q4",
+        "timestamp": "2023-06-22T16:45:00Z",
+        "status": "accepted",
+        "runtime": "72ms",
+        "memory": "39.5MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q5",
+        "timestamp": "2023-06-25T20:15:00Z",
+        "status": "accepted",
+        "runtime": "96ms",
+        "memory": "44.3MB",
+        "language": "javascript"
+      },
+      {
+        "questionId": "q6",
+        "timestamp": "2023-06-25T21:00:00Z",
+        "status": "time limit exceeded",
+        "runtime": null,
+        "memory": null,
+        "language": "javascript"
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "startup-1",
+    "name": "CodeMentor AI",
+    "founder": "user-1",
+    "founderName": "Alex Johnson",
+    "description": "AI-powered coding assistant that helps developers write better code faster by providing real-time suggestions and code reviews.",
+    "pitch": "CodeMentor AI is revolutionizing how developers write code. Our AI assistant analyzes code in real-time, suggests improvements, identifies bugs before they happen, and helps developers learn best practices. With the growing demand for software development and the shortage of senior developers, CodeMentor AI bridges the gap by making junior developers more productive and helping senior developers focus on complex problems rather than routine coding tasks.",
+    "fundingGoal": 500000,
+    "equityOffered": 15,
+    "industry": "Artificial Intelligence",
+    "stage": "Seed",
+    "location": "San Francisco, CA",
+    "website": "https://codementor-ai.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "tags": ["AI", "Developer Tools", "Productivity"],
+    "traction": "5,000 beta users, 20% weekly growth",
+    "createdAt": "2023-09-15T10:30:00Z",
+    "team": [
+      {
+        "name": "Alex Johnson",
+        "role": "CEO & Co-founder",
+        "bio": "Former Senior Engineer at Google with 10+ years of experience in AI and ML."
+      },
+      {
+        "name": "Sarah Chen",
+        "role": "CTO & Co-founder",
+        "bio": "PhD in Computer Science from MIT, specialized in natural language processing."
+      }
+    ]
+  },
+  {
+    "id": "startup-2",
+    "name": "HealthTrack",
+    "founder": "user-3",
+    "founderName": "Emily Rodriguez",
+    "description": "A comprehensive health monitoring platform that integrates with wearable devices to provide personalized health insights and early disease detection.",
+    "pitch": "HealthTrack is transforming preventive healthcare by leveraging data from wearable devices to detect health issues before they become serious. Our platform uses advanced algorithms to analyze patterns in heart rate, sleep, activity, and other metrics to identify potential health concerns and provide actionable recommendations. With healthcare costs rising and a growing focus on preventive care, HealthTrack empowers individuals to take control of their health while providing valuable data to healthcare providers.",
+    "fundingGoal": 750000,
+    "equityOffered": 12,
+    "industry": "Healthcare",
+    "stage": "Pre-seed",
+    "location": "Boston, MA",
+    "website": "https://healthtrack.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "tags": ["Healthcare", "Wearables", "AI", "Preventive Medicine"],
+    "traction": "2,000 users, partnerships with 3 local clinics",
+    "createdAt": "2023-10-05T14:45:00Z",
+    "team": [
+      {
+        "name": "Emily Rodriguez",
+        "role": "CEO & Founder",
+        "bio": "Former healthcare consultant with experience at top hospitals."
+      },
+      {
+        "name": "Dr. James Wilson",
+        "role": "Medical Director",
+        "bio": "Board-certified physician with 15 years of clinical experience."
+      }
+    ]
+  },
+  {
+    "id": "startup-3",
+    "name": "GreenCommute",
+    "founder": "user-5",
+    "founderName": "Michael Chang",
+    "description": "A sustainable transportation platform that rewards users for choosing eco-friendly commuting options like biking, walking, or public transit.",
+    "pitch": "GreenCommute is addressing climate change at the individual level by incentivizing sustainable transportation choices. Our app tracks users' commuting methods and rewards them with points for choosing eco-friendly options. These points can be redeemed for discounts at partner businesses, creating a win-win-win for users, local businesses, and the environment. With growing concerns about climate change and increasing urban congestion, GreenCommute offers a scalable solution that makes sustainable choices more attractive.",
+    "fundingGoal": 300000,
+    "equityOffered": 10,
+    "industry": "Sustainability",
+    "stage": "Seed",
+    "location": "Portland, OR",
+    "website": "https://greencommute.example.com",
+    "logo": "/placeholder.svg?height=80&width=80",
+    "tags": ["Sustainability", "Transportation", "Climate Tech"],
+    "traction": "10,000 users in Portland, reducing carbon emissions by estimated 50 tons monthly",
+    "createdAt": "2023-08-20T09:15:00Z",
+    "team": [
+      {
+        "name": "Michael Chang",
+        "role": "CEO & Founder",
+        "bio": "Environmental scientist and former product manager at Lyft."
+      },
+      {
+        "name": "Lisa Park",
+        "role": "COO",
+        "bio": "Urban planning expert with experience in sustainable city development."
+      }
+    ]
+  }
+]
+

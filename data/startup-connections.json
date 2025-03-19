@@ -1,0 +1,39 @@
+[
+  {
+    "id": "connection-1",
+    "startupId": "startup-1",
+    "investorId": "investor-1",
+    "status": "pending",
+    "message": "We believe our AI-powered coding assistant aligns perfectly with your focus on developer tools and AI. We'd love to discuss how we can revolutionize the development workflow.",
+    "createdAt": "2023-10-10T08:45:00Z",
+    "updatedAt": "2023-10-10T08:45:00Z"
+  },
+  {
+    "id": "connection-2",
+    "startupId": "startup-2",
+    "investorId": "investor-4",
+    "status": "connected",
+    "message": "Our health monitoring platform would benefit greatly from your expertise in digital health. We're looking to expand our clinical partnerships and accelerate our development.",
+    "createdAt": "2023-09-25T14:30:00Z",
+    "updatedAt": "2023-09-28T11:15:00Z"
+  },
+  {
+    "id": "connection-3",
+    "startupId": "startup-3",
+    "investorId": "investor-2",
+    "status": "connected",
+    "message": "GreenCommute's mission to promote sustainable transportation aligns perfectly with your impact investment focus. We'd love to discuss how we can scale our solution to more cities.",
+    "createdAt": "2023-09-05T10:20:00Z",
+    "updatedAt": "2023-09-08T16:45:00Z"
+  },
+  {
+    "id": "connection-4",
+    "startupId": "startup-1",
+    "investorId": "investor-3",
+    "status": "rejected",
+    "message": "We're developing an AI coding assistant that helps developers write better code faster. Given your tech background, we believe you could provide valuable insights along with investment.",
+    "createdAt": "2023-08-15T09:30:00Z",
+    "updatedAt": "2023-08-18T14:10:00Z"
+  }
+]
+

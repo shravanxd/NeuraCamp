@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp",
+    "logo": "/placeholder.svg?height=80&width=200",
+    "description": "Global technology leader specializing in AI and cloud solutions."
+  },
+  {
+    "id": 2,
+    "name": "DataTech",
+    "logo": "/placeholder.svg?height=80&width=200",
+    "description": "Pioneering data analytics and business intelligence solutions."
+  },
+  {
+    "id": 3,
+    "name": "NeuralTech",
+    "logo": "/placeholder.svg?height=80&width=200",
+    "description": "Cutting-edge AI research and development company."
+  },
+  {
+    "id": 4,
+    "name": "CloudSystems",
+    "logo": "/placeholder.svg?height=80&width=200",
+    "description": "Leading cloud infrastructure and computing services provider."
+  },
+  {
+    "id": 5,
+    "name": "QuantumAI",
+    "logo": "/placeholder.svg?height=80&width=200",
+    "description": "Specializing in quantum computing and advanced AI algorithms."
+  },
+  {
+    "id": 6,
+    "name": "GlobalAnalytics",
+    "logo": "/placeholder.svg?height=80&width=200",
+    "description": "Enterprise analytics and data management solutions."
+  }
+]
+

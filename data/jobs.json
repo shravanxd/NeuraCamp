@@ -1,0 +1,252 @@
+[
+  {
+    "id": "job-1",
+    "title": "Senior Machine Learning Engineer",
+    "company": "TechCorp Inc.",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "location": "San Francisco, CA (Hybrid)",
+    "employmentType": "Full-time",
+    "salary": "$140,000 - $180,000",
+    "description": "We are looking for a Senior Machine Learning Engineer to join our AI team. You will be responsible for designing, implementing, and deploying machine learning models to solve complex business problems.",
+    "requirements": [
+      "5+ years of experience in machine learning or related field",
+      "Strong programming skills in Python",
+      "Experience with deep learning frameworks (TensorFlow, PyTorch)",
+      "Experience with cloud platforms (AWS, GCP, Azure)",
+      "Strong understanding of statistics and mathematics",
+      "Experience with NLP, computer vision, or recommendation systems"
+    ],
+    "responsibilities": [
+      "Design and implement machine learning models",
+      "Collaborate with cross-functional teams to identify and solve business problems",
+      "Deploy and monitor machine learning models in production",
+      "Stay up-to-date with the latest research and technologies",
+      "Mentor junior engineers and data scientists"
+    ],
+    "benefits": [
+      "Competitive salary and equity",
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Flexible work schedule",
+      "Professional development budget",
+      "Home office stipend"
+    ],
+    "skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "NLP", "AWS"],
+    "postedDate": "2025-05-01",
+    "applicationDeadline": "2025-06-01",
+    "companyDescription": "TechCorp Inc. is a leading technology company specializing in AI-powered solutions for enterprise customers. We are on a mission to transform how businesses operate through the power of artificial intelligence.",
+    "companySize": "501-1000 employees",
+    "companyIndustry": "Artificial Intelligence",
+    "companyWebsite": "https://techcorp.example.com"
+  },
+  {
+    "id": "job-2",
+    "title": "Data Scientist",
+    "company": "DataInsight",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "salary": "$110,000 - $140,000",
+    "description": "DataInsight is seeking a talented Data Scientist to join our growing team. In this role, you will analyze complex datasets, build predictive models, and extract actionable insights to drive business decisions.",
+    "requirements": [
+      "3+ years of experience in data science or related field",
+      "Strong programming skills in Python or R",
+      "Experience with data visualization tools (Tableau, Power BI)",
+      "Experience with SQL and database systems",
+      "Strong understanding of statistics and experimental design",
+      "Experience with machine learning algorithms"
+    ],
+    "responsibilities": [
+      "Analyze large datasets to identify patterns and trends",
+      "Build and deploy predictive models",
+      "Communicate findings to stakeholders",
+      "Collaborate with engineering teams to implement data-driven solutions",
+      "Stay up-to-date with the latest research and technologies"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Remote work",
+      "Professional development budget",
+      "Flexible work hours"
+    ],
+    "skills": ["Python", "R", "SQL", "Machine Learning", "Data Analysis", "Statistics", "Tableau"],
+    "postedDate": "2025-05-05",
+    "applicationDeadline": "2025-06-05",
+    "companyDescription": "DataInsight is a data analytics company that helps businesses make better decisions through data. We provide end-to-end data solutions, from data collection and processing to analysis and visualization.",
+    "companySize": "101-500 employees",
+    "companyIndustry": "Data Analytics",
+    "companyWebsite": "https://datainsight.example.com"
+  },
+  {
+    "id": "job-3",
+    "title": "Computer Vision Engineer",
+    "company": "RetailTech Solutions",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "location": "Boston, MA (On-site)",
+    "employmentType": "Full-time",
+    "salary": "$120,000 - $160,000",
+    "description": "RetailTech Solutions is looking for a Computer Vision Engineer to develop cutting-edge computer vision solutions for retail analytics. You will be responsible for designing and implementing algorithms to analyze in-store customer behavior and optimize store layouts.",
+    "requirements": [
+      "3+ years of experience in computer vision or related field",
+      "Strong programming skills in Python",
+      "Experience with OpenCV, TensorFlow, or PyTorch",
+      "Experience with deep learning for computer vision",
+      "Strong understanding of image processing and computer vision algorithms",
+      "Experience with real-time video processing"
+    ],
+    "responsibilities": [
+      "Design and implement computer vision algorithms",
+      "Train and optimize deep learning models for object detection and tracking",
+      "Deploy computer vision solutions in retail environments",
+      "Collaborate with hardware teams to optimize performance",
+      "Stay up-to-date with the latest research and technologies"
+    ],
+    "benefits": [
+      "Competitive salary and equity",
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Gym membership",
+      "Professional development budget",
+      "Relocation assistance"
+    ],
+    "skills": ["Python", "Computer Vision", "OpenCV", "TensorFlow", "PyTorch", "Deep Learning", "Object Detection"],
+    "postedDate": "2025-05-10",
+    "applicationDeadline": "2025-06-10",
+    "companyDescription": "RetailTech Solutions is a technology company that provides AI-powered solutions for retail businesses. Our computer vision technology helps retailers understand customer behavior, optimize store layouts, and improve the shopping experience.",
+    "companySize": "51-100 employees",
+    "companyIndustry": "Retail Technology",
+    "companyWebsite": "https://retailtech.example.com"
+  },
+  {
+    "id": "job-4",
+    "title": "Data Engineer",
+    "company": "ShopSmart",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "location": "Seattle, WA (Hybrid)",
+    "employmentType": "Full-time",
+    "salary": "$130,000 - $170,000",
+    "description": "ShopSmart is seeking a Data Engineer to design and implement data pipelines for our e-commerce analytics platform. You will be responsible for building scalable data infrastructure to support our growing business.",
+    "requirements": [
+      "4+ years of experience in data engineering or related field",
+      "Strong programming skills in Python",
+      "Experience with data processing frameworks (Apache Spark, Hadoop)",
+      "Experience with cloud platforms (AWS, GCP, Azure)",
+      "Experience with SQL and NoSQL databases",
+      "Experience with data warehousing and ETL processes"
+    ],
+    "responsibilities": [
+      "Design and implement data pipelines",
+      "Build and maintain data infrastructure",
+      "Optimize data storage and retrieval",
+      "Ensure data quality and reliability",
+      "Collaborate with data scientists and analysts to support their data needs"
+    ],
+    "benefits": [
+      "Competitive salary and equity",
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Flexible work schedule",
+      "Professional development budget",
+      "Home office stipend"
+    ],
+    "skills": ["Python", "Apache Spark", "AWS", "SQL", "ETL", "Data Warehousing", "Airflow"],
+    "postedDate": "2025-05-15",
+    "applicationDeadline": "2025-06-15",
+    "companyDescription": "ShopSmart is an e-commerce company that provides personalized shopping experiences for customers. Our data-driven approach helps customers find the products they love while helping retailers optimize their inventory and marketing.",
+    "companySize": "1001-5000 employees",
+    "companyIndustry": "E-commerce",
+    "companyWebsite": "https://shopsmart.example.com"
+  },
+  {
+    "id": "job-5",
+    "title": "AI Research Scientist",
+    "company": "StreamFlix",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "location": "Los Angeles, CA (On-site)",
+    "employmentType": "Full-time",
+    "salary": "$150,000 - $200,000",
+    "description": "StreamFlix is looking for an AI Research Scientist to join our recommendation systems team. You will be responsible for developing novel algorithms to improve our content recommendation system and enhance user experience.",
+    "requirements": [
+      "PhD in Computer Science, Machine Learning, or related field",
+      "Strong publication record in top-tier conferences (NeurIPS, ICML, KDD)",
+      "Experience with recommendation systems",
+      "Strong programming skills in Python",
+      "Experience with deep learning frameworks (TensorFlow, PyTorch)",
+      "Experience with large-scale data processing"
+    ],
+    "responsibilities": [
+      "Conduct research to improve recommendation algorithms",
+      "Implement and test new recommendation approaches",
+      "Collaborate with engineering teams to deploy research into production",
+      "Publish research findings in top-tier conferences",
+      "Stay up-to-date with the latest research and technologies"
+    ],
+    "benefits": [
+      "Competitive salary and equity",
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Flexible work schedule",
+      "Conference attendance budget",
+      "Relocation assistance"
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Recommendation Systems",
+      "TensorFlow",
+      "PyTorch",
+      "Research"
+    ],
+    "postedDate": "2025-05-20",
+    "applicationDeadline": "2025-06-20",
+    "companyDescription": "StreamFlix is a leading streaming platform that provides personalized content recommendations to millions of users worldwide. Our recommendation system is at the core of our business, helping users discover content they love.",
+    "companySize": "5001-10000 employees",
+    "companyIndustry": "Entertainment",
+    "companyWebsite": "https://streamflix.example.com"
+  },
+  {
+    "id": "job-6",
+    "title": "NLP Engineer",
+    "company": "ServiceNow Inc.",
+    "companyLogo": "/placeholder.svg?height=40&width=40",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "salary": "$125,000 - $165,000",
+    "description": "ServiceNow Inc. is seeking an NLP Engineer to develop AI-powered chatbots and virtual assistants for customer support. You will be responsible for designing and implementing natural language processing solutions to improve customer experience.",
+    "requirements": [
+      "3+ years of experience in NLP or related field",
+      "Strong programming skills in Python",
+      "Experience with NLP libraries and frameworks (NLTK, spaCy, Hugging Face)",
+      "Experience with deep learning for NLP (BERT, GPT, etc.)",
+      "Experience with chatbot development",
+      "Strong understanding of linguistics and language models"
+    ],
+    "responsibilities": [
+      "Design and implement NLP algorithms",
+      "Train and optimize language models",
+      "Develop chatbots and virtual assistants",
+      "Improve intent recognition and entity extraction",
+      "Collaborate with product teams to define requirements",
+      "Stay up-to-date with the latest research and technologies"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Remote work",
+      "Professional development budget",
+      "Flexible work hours"
+    ],
+    "skills": ["Python", "NLP", "Machine Learning", "Deep Learning", "BERT", "GPT", "Chatbot Development"],
+    "postedDate": "2025-05-25",
+    "applicationDeadline": "2025-06-25",
+    "companyDescription": "ServiceNow Inc. is a cloud computing company that provides digital workflow solutions for enterprises. Our AI-powered chatbots and virtual assistants help businesses provide better customer support and improve employee productivity.",
+    "companySize": "10001+ employees",
+    "companyIndustry": "Cloud Computing",
+    "companyWebsite": "https://servicenow.example.com"
+  }
+]
+

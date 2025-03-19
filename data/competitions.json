@@ -1,0 +1,115 @@
+[
+  {
+    "id": "comp1",
+    "title": "Weekly Coding Challenge #42",
+    "description": "Solve 3 algorithmic problems in 90 minutes. Points are awarded based on correctness and efficiency.",
+    "startDate": "2023-07-01T18:00:00Z",
+    "endDate": "2023-07-01T19:30:00Z",
+    "status": "upcoming",
+    "difficulty": "medium",
+    "participants": [],
+    "prizes": [
+      {
+        "rank": "1st",
+        "description": "500 NeuraCoin + Premium Subscription (1 month)"
+      },
+      {
+        "rank": "2nd",
+        "description": "300 NeuraCoin"
+      },
+      {
+        "rank": "3rd",
+        "description": "150 NeuraCoin"
+      }
+    ],
+    "questions": ["q7", "q8", "q9"]
+  },
+  {
+    "id": "comp2",
+    "title": "AI & ML Hackathon",
+    "description": "Build a machine learning model to solve a real-world problem. Submissions will be judged on accuracy, innovation, and code quality.",
+    "startDate": "2023-07-15T00:00:00Z",
+    "endDate": "2023-07-17T23:59:59Z",
+    "status": "upcoming",
+    "difficulty": "hard",
+    "participants": ["user2"],
+    "prizes": [
+      {
+        "rank": "1st",
+        "description": "1000 NeuraCoin + Premium Subscription (3 months) + Mentorship Session"
+      },
+      {
+        "rank": "2nd",
+        "description": "600 NeuraCoin + Premium Subscription (1 month)"
+      },
+      {
+        "rank": "3rd",
+        "description": "300 NeuraCoin"
+      }
+    ],
+    "questions": []
+  },
+  {
+    "id": "comp3",
+    "title": "Weekly Coding Challenge #41",
+    "description": "Solve 3 algorithmic problems in 90 minutes. Points are awarded based on correctness and efficiency.",
+    "startDate": "2023-06-24T18:00:00Z",
+    "endDate": "2023-06-24T19:30:00Z",
+    "status": "completed",
+    "difficulty": "medium",
+    "participants": ["user1", "user2", "user3", "user4", "user5"],
+    "prizes": [
+      {
+        "rank": "1st",
+        "description": "500 NeuraCoin + Premium Subscription (1 month)"
+      },
+      {
+        "rank": "2nd",
+        "description": "300 NeuraCoin"
+      },
+      {
+        "rank": "3rd",
+        "description": "150 NeuraCoin"
+      }
+    ],
+    "questions": ["q10", "q11", "q12"],
+    "results": [
+      {
+        "userId": "user2",
+        "rank": 1,
+        "score": 300,
+        "solvedQuestions": ["q10", "q11", "q12"],
+        "timeSpent": 72
+      },
+      {
+        "userId": "user5",
+        "rank": 2,
+        "score": 280,
+        "solvedQuestions": ["q10", "q11", "q12"],
+        "timeSpent": 85
+      },
+      {
+        "userId": "user1",
+        "rank": 3,
+        "score": 200,
+        "solvedQuestions": ["q10", "q11"],
+        "timeSpent": 65
+      },
+      {
+        "userId": "user3",
+        "rank": 4,
+        "score": 180,
+        "solvedQuestions": ["q10", "q11"],
+        "timeSpent": 80
+      },
+      {
+        "userId": "user4",
+        "rank": 5,
+        "score": 100,
+        "solvedQuestions": ["q10"],
+        "timeSpent": 45
+      }
+    ]
+  }
+]
+

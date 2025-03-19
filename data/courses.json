@@ -1,0 +1,649 @@
+[
+  {
+    "id": "advanced-machine-learning",
+    "title": "Advanced Machine Learning",
+    "instructor": "Dr. Sarah Johnson",
+    "instructorRole": "Lead Data Scientist at TechCorp",
+    "instructorAvatar": "/placeholder.svg?height=48&width=48",
+    "category": "Machine Learning",
+    "level": "Advanced",
+    "duration": "15 hours",
+    "enrolledStudents": 12345,
+    "rating": 4.8,
+    "ratingCount": 1234,
+    "lastUpdated": "January 2025",
+    "language": "English",
+    "price": 99.99,
+    "description": "Master advanced machine learning techniques and algorithms with hands-on projects and real-world applications.",
+    "shortDescription": "Learn advanced machine learning techniques with hands-on projects",
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "skills": ["Python", "Machine Learning", "Data Analysis", "Neural Networks", "Deep Learning"],
+    "progress": 42,
+    "featured": true,
+    "modules": [
+      {
+        "id": 1,
+        "title": "Introduction to Machine Learning",
+        "progress": 100,
+        "completed": true,
+        "duration": "1h 30m",
+        "lessons": [
+          { "id": 1, "title": "What is Machine Learning?", "type": "video", "duration": "10m", "completed": true },
+          { "id": 2, "title": "Types of Machine Learning", "type": "video", "duration": "15m", "completed": true },
+          { "id": 3, "title": "Setting Up Your Environment", "type": "code", "duration": "20m", "completed": true },
+          { "id": 4, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": true }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Supervised Learning Algorithms",
+        "progress": 75,
+        "completed": false,
+        "duration": "2h 45m",
+        "lessons": [
+          { "id": 5, "title": "Linear Regression", "type": "video", "duration": "20m", "completed": true },
+          { "id": 6, "title": "Logistic Regression", "type": "video", "duration": "25m", "completed": true },
+          { "id": 7, "title": "Decision Trees", "type": "video", "duration": "30m", "completed": true },
+          { "id": 8, "title": "Support Vector Machines", "type": "video", "duration": "35m", "completed": false },
+          {
+            "id": 9,
+            "title": "Coding Exercise: Implementing SVM",
+            "type": "code",
+            "duration": "40m",
+            "completed": false
+          },
+          { "id": 10, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Unsupervised Learning",
+        "progress": 0,
+        "completed": false,
+        "duration": "2h 15m",
+        "lessons": [
+          { "id": 11, "title": "Clustering Algorithms", "type": "video", "duration": "25m", "completed": false },
+          { "id": 12, "title": "K-Means Clustering", "type": "video", "duration": "30m", "completed": false },
+          { "id": 13, "title": "Hierarchical Clustering", "type": "video", "duration": "25m", "completed": false },
+          { "id": 14, "title": "Dimensionality Reduction", "type": "video", "duration": "30m", "completed": false },
+          {
+            "id": 15,
+            "title": "Coding Exercise: Implementing K-Means",
+            "type": "code",
+            "duration": "40m",
+            "completed": false
+          },
+          { "id": 16, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "python-for-data-science",
+    "title": "Python for Data Science",
+    "instructor": "Alex Chen",
+    "instructorRole": "Senior Data Scientist at DataTech",
+    "instructorAvatar": "/placeholder.svg?height=48&width=48",
+    "category": "Programming",
+    "level": "Beginner",
+    "duration": "12 hours",
+    "enrolledStudents": 18765,
+    "rating": 4.9,
+    "ratingCount": 2345,
+    "lastUpdated": "February 2025",
+    "language": "English",
+    "price": 79.99,
+    "description": "Learn Python programming from scratch with a focus on data science applications. Master pandas, NumPy, and data visualization.",
+    "shortDescription": "Master Python for data analysis and visualization",
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "skills": ["Python", "Pandas", "NumPy", "Data Visualization", "Jupyter Notebooks"],
+    "progress": 85,
+    "featured": true,
+    "modules": [
+      {
+        "id": 1,
+        "title": "Python Fundamentals",
+        "progress": 100,
+        "completed": true,
+        "duration": "2h 30m",
+        "lessons": [
+          { "id": 1, "title": "Introduction to Python", "type": "video", "duration": "15m", "completed": true },
+          { "id": 2, "title": "Variables and Data Types", "type": "video", "duration": "20m", "completed": true },
+          { "id": 3, "title": "Control Flow", "type": "video", "duration": "25m", "completed": true },
+          { "id": 4, "title": "Functions and Modules", "type": "code", "duration": "30m", "completed": true },
+          { "id": 5, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": true }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Data Manipulation with Pandas",
+        "progress": 100,
+        "completed": true,
+        "duration": "3h 15m",
+        "lessons": [
+          { "id": 6, "title": "Introduction to Pandas", "type": "video", "duration": "20m", "completed": true },
+          { "id": 7, "title": "Series and DataFrames", "type": "video", "duration": "25m", "completed": true },
+          { "id": 8, "title": "Data Cleaning", "type": "video", "duration": "30m", "completed": true },
+          { "id": 9, "title": "Data Transformation", "type": "code", "duration": "35m", "completed": true },
+          { "id": 10, "title": "Working with Time Series", "type": "code", "duration": "30m", "completed": true },
+          { "id": 11, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": true }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Data Visualization",
+        "progress": 60,
+        "completed": false,
+        "duration": "2h 45m",
+        "lessons": [
+          { "id": 12, "title": "Matplotlib Basics", "type": "video", "duration": "25m", "completed": true },
+          { "id": 13, "title": "Advanced Matplotlib", "type": "video", "duration": "30m", "completed": true },
+          { "id": 14, "title": "Seaborn", "type": "video", "duration": "25m", "completed": true },
+          { "id": 15, "title": "Interactive Visualizations", "type": "code", "duration": "35m", "completed": false },
+          { "id": 16, "title": "Dashboard Creation", "type": "project", "duration": "45m", "completed": false },
+          { "id": 17, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Statistical Analysis",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 30m",
+        "lessons": [
+          { "id": 18, "title": "Descriptive Statistics", "type": "video", "duration": "25m", "completed": false },
+          { "id": 19, "title": "Hypothesis Testing", "type": "video", "duration": "30m", "completed": false },
+          { "id": 20, "title": "Correlation and Regression", "type": "video", "duration": "35m", "completed": false },
+          {
+            "id": 21,
+            "title": "Statistical Analysis Project",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 22, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deep-learning-fundamentals",
+    "title": "Deep Learning Fundamentals",
+    "instructor": "Maya Patel",
+    "instructorRole": "AI Researcher at NeuralTech",
+    "instructorAvatar": "/placeholder.svg?height=48&width=48",
+    "category": "Deep Learning",
+    "level": "Intermediate",
+    "duration": "18 hours",
+    "enrolledStudents": 9876,
+    "rating": 4.7,
+    "ratingCount": 1567,
+    "lastUpdated": "March 2025",
+    "language": "English",
+    "price": 89.99,
+    "description": "Understand the fundamentals of deep learning, neural networks, and how to implement them using TensorFlow and PyTorch.",
+    "shortDescription": "Build neural networks with TensorFlow and PyTorch",
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "skills": ["Deep Learning", "TensorFlow", "PyTorch", "Neural Networks", "Python"],
+    "progress": 32,
+    "featured": true,
+    "modules": [
+      {
+        "id": 1,
+        "title": "Neural Network Basics",
+        "progress": 100,
+        "completed": true,
+        "duration": "3h 15m",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Introduction to Neural Networks",
+            "type": "video",
+            "duration": "25m",
+            "completed": true
+          },
+          {
+            "id": 2,
+            "title": "Perceptrons and Activation Functions",
+            "type": "video",
+            "duration": "30m",
+            "completed": true
+          },
+          { "id": 3, "title": "Backpropagation", "type": "video", "duration": "35m", "completed": true },
+          {
+            "id": 4,
+            "title": "Building a Simple Neural Network",
+            "type": "code",
+            "duration": "45m",
+            "completed": true
+          },
+          { "id": 5, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": true }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "TensorFlow Fundamentals",
+        "progress": 60,
+        "completed": false,
+        "duration": "4h 30m",
+        "lessons": [
+          { "id": 6, "title": "Introduction to TensorFlow", "type": "video", "duration": "25m", "completed": true },
+          { "id": 7, "title": "Tensors and Operations", "type": "video", "duration": "30m", "completed": true },
+          { "id": 8, "title": "Building Models with Keras", "type": "video", "duration": "35m", "completed": true },
+          { "id": 9, "title": "Training and Evaluation", "type": "code", "duration": "40m", "completed": false },
+          {
+            "id": 10,
+            "title": "TensorFlow Project: Image Classification",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 11, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "PyTorch Fundamentals",
+        "progress": 0,
+        "completed": false,
+        "duration": "4h 15m",
+        "lessons": [
+          { "id": 12, "title": "Introduction to PyTorch", "type": "video", "duration": "25m", "completed": false },
+          { "id": 13, "title": "Tensors and Autograd", "type": "video", "duration": "30m", "completed": false },
+          { "id": 14, "title": "Neural Networks with PyTorch", "type": "video", "duration": "35m", "completed": false },
+          { "id": 15, "title": "Training and Optimization", "type": "code", "duration": "40m", "completed": false },
+          {
+            "id": 16,
+            "title": "PyTorch Project: Text Classification",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 17, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Convolutional Neural Networks",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 45m",
+        "lessons": [
+          { "id": 18, "title": "Introduction to CNNs", "type": "video", "duration": "25m", "completed": false },
+          { "id": 19, "title": "Convolutional Layers", "type": "video", "duration": "30m", "completed": false },
+          {
+            "id": 20,
+            "title": "Pooling and Fully Connected Layers",
+            "type": "video",
+            "duration": "25m",
+            "completed": false
+          },
+          { "id": 21, "title": "CNN Architectures", "type": "video", "duration": "35m", "completed": false },
+          {
+            "id": 22,
+            "title": "CNN Project: Object Detection",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 23, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Recurrent Neural Networks",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 30m",
+        "lessons": [
+          { "id": 24, "title": "Introduction to RNNs", "type": "video", "duration": "25m", "completed": false },
+          { "id": 25, "title": "LSTM and GRU", "type": "video", "duration": "30m", "completed": false },
+          { "id": 26, "title": "Sequence Modeling", "type": "video", "duration": "35m", "completed": false },
+          {
+            "id": 27,
+            "title": "RNN Project: Time Series Prediction",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 28, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "data-visualization-with-python",
+    "title": "Data Visualization with Python",
+    "instructor": "Jordan Lee",
+    "instructorRole": "Data Visualization Expert",
+    "instructorAvatar": "/placeholder.svg?height=48&width=48",
+    "category": "Data Visualization",
+    "level": "Intermediate",
+    "duration": "10 hours",
+    "enrolledStudents": 7654,
+    "rating": 4.6,
+    "ratingCount": 987,
+    "lastUpdated": "January 2025",
+    "language": "English",
+    "price": 69.99,
+    "description": "Learn how to create compelling visualizations using Python libraries like Matplotlib, Seaborn, and Plotly.",
+    "shortDescription": "Create compelling data visualizations with Python",
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "skills": ["Python", "Matplotlib", "Seaborn", "Plotly", "Data Visualization"],
+    "progress": 0,
+    "featured": false,
+    "modules": [
+      {
+        "id": 1,
+        "title": "Visualization Fundamentals",
+        "progress": 0,
+        "completed": false,
+        "duration": "2h 15m",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Principles of Data Visualization",
+            "type": "video",
+            "duration": "25m",
+            "completed": false
+          },
+          { "id": 2, "title": "Types of Visualizations", "type": "video", "duration": "30m", "completed": false },
+          { "id": 3, "title": "Color Theory for Data Viz", "type": "video", "duration": "20m", "completed": false },
+          {
+            "id": 4,
+            "title": "Designing Effective Visualizations",
+            "type": "video",
+            "duration": "30m",
+            "completed": false
+          },
+          { "id": 5, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Matplotlib Deep Dive",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 30m",
+        "lessons": [
+          { "id": 6, "title": "Matplotlib Basics", "type": "video", "duration": "25m", "completed": false },
+          { "id": 7, "title": "Customizing Plots", "type": "video", "duration": "30m", "completed": false },
+          { "id": 8, "title": "Statistical Visualizations", "type": "video", "duration": "35m", "completed": false },
+          { "id": 9, "title": "Advanced Matplotlib Features", "type": "code", "duration": "45m", "completed": false },
+          { "id": 10, "title": "Matplotlib Project", "type": "project", "duration": "60m", "completed": false },
+          { "id": 11, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Seaborn for Statistical Visualization",
+        "progress": 0,
+        "completed": false,
+        "duration": "2h 45m",
+        "lessons": [
+          { "id": 12, "title": "Introduction to Seaborn", "type": "video", "duration": "25m", "completed": false },
+          { "id": 13, "title": "Distribution Plots", "type": "video", "duration": "30m", "completed": false },
+          { "id": 14, "title": "Categorical Plots", "type": "video", "duration": "30m", "completed": false },
+          { "id": 15, "title": "Regression Plots", "type": "code", "duration": "35m", "completed": false },
+          { "id": 16, "title": "Seaborn Project", "type": "project", "duration": "45m", "completed": false },
+          { "id": 17, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Interactive Visualizations with Plotly",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 15m",
+        "lessons": [
+          { "id": 18, "title": "Introduction to Plotly", "type": "video", "duration": "25m", "completed": false },
+          { "id": 19, "title": "Basic Plotly Charts", "type": "video", "duration": "30m", "completed": false },
+          {
+            "id": 20,
+            "title": "Advanced Interactive Features",
+            "type": "video",
+            "duration": "35m",
+            "completed": false
+          },
+          { "id": 21, "title": "Dashboards with Plotly Dash", "type": "code", "duration": "45m", "completed": false },
+          {
+            "id": 22,
+            "title": "Interactive Dashboard Project",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 23, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "natural-language-processing",
+    "title": "Natural Language Processing",
+    "instructor": "Dr. Sarah Johnson",
+    "instructorRole": "Lead Data Scientist at TechCorp",
+    "instructorAvatar": "/placeholder.svg?height=48&width=48",
+    "category": "NLP",
+    "level": "Advanced",
+    "duration": "16 hours",
+    "enrolledStudents": 6543,
+    "rating": 4.8,
+    "ratingCount": 876,
+    "lastUpdated": "February 2025",
+    "language": "English",
+    "price": 99.99,
+    "description": "Master natural language processing techniques and build applications like sentiment analysis, text classification, and more.",
+    "shortDescription": "Build NLP applications with modern techniques",
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "skills": ["NLP", "Python", "NLTK", "spaCy", "Transformers"],
+    "progress": 0,
+    "featured": false,
+    "modules": [
+      {
+        "id": 1,
+        "title": "NLP Fundamentals",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 15m",
+        "lessons": [
+          { "id": 1, "title": "Introduction to NLP", "type": "video", "duration": "25m", "completed": false },
+          { "id": 2, "title": "Text Preprocessing", "type": "video", "duration": "30m", "completed": false },
+          { "id": 3, "title": "Tokenization and Stemming", "type": "video", "duration": "25m", "completed": false },
+          { "id": 4, "title": "Part-of-Speech Tagging", "type": "code", "duration": "35m", "completed": false },
+          { "id": 5, "title": "Named Entity Recognition", "type": "code", "duration": "40m", "completed": false },
+          { "id": 6, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Text Classification",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 45m",
+        "lessons": [
+          { "id": 7, "title": "Bag of Words Model", "type": "video", "duration": "25m", "completed": false },
+          { "id": 8, "title": "TF-IDF Vectorization", "type": "video", "duration": "30m", "completed": false },
+          { "id": 9, "title": "Naive Bayes  \"type\": \"video", "duration": "30m", "completed": false },
+          { "id": 9, "title": "Naive Bayes Classifier", "type": "video", "duration": "35m", "completed": false },
+          { "id": 10, "title": "SVM for Text Classification", "type": "video", "duration": "30m", "completed": false },
+          { "id": 11, "title": "Sentiment Analysis Project", "type": "project", "duration": "60m", "completed": false },
+          { "id": 12, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Word Embeddings",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 30m",
+        "lessons": [
+          {
+            "id": 13,
+            "title": "Introduction to Word Embeddings",
+            "type": "video",
+            "duration": "25m",
+            "completed": false
+          },
+          { "id": 14, "title": "Word2Vec", "type": "video", "duration": "30m", "completed": false },
+          { "id": 15, "title": "GloVe", "type": "video", "duration": "25m", "completed": false },
+          { "id": 16, "title": "FastText", "type": "video", "duration": "30m", "completed": false },
+          { "id": 17, "title": "Word Embeddings Project", "type": "project", "duration": "50m", "completed": false },
+          { "id": 18, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Transformers and BERT",
+        "progress": 0,
+        "completed": false,
+        "duration": "4h 15m",
+        "lessons": [
+          { "id": 19, "title": "Introduction to Transformers", "type": "video", "duration": "30m", "completed": false },
+          { "id": 20, "title": "Attention Mechanism", "type": "video", "duration": "35m", "completed": false },
+          { "id": 21, "title": "BERT Architecture", "type": "video", "duration": "40m", "completed": false },
+          { "id": 22, "title": "Fine-tuning BERT", "type": "code", "duration": "45m", "completed": false },
+          {
+            "id": 23,
+            "title": "BERT for Text Classification",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 24, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "computer-vision-with-pytorch",
+    "title": "Computer Vision with PyTorch",
+    "instructor": "Alex Chen",
+    "instructorRole": "Senior Data Scientist at DataTech",
+    "instructorAvatar": "/placeholder.svg?height=48&width=48",
+    "category": "Computer Vision",
+    "level": "Advanced",
+    "duration": "20 hours",
+    "enrolledStudents": 5432,
+    "rating": 4.9,
+    "ratingCount": 765,
+    "lastUpdated": "March 2025",
+    "language": "English",
+    "price": 109.99,
+    "description": "Learn computer vision techniques and implement state-of-the-art models using PyTorch for image classification, object detection, and more.",
+    "shortDescription": "Implement CV models with PyTorch",
+    "thumbnail": "/placeholder.svg?height=720&width=1280",
+    "skills": ["Computer Vision", "PyTorch", "Deep Learning", "CNN", "Object Detection"],
+    "progress": 0,
+    "featured": false,
+    "modules": [
+      {
+        "id": 1,
+        "title": "Computer Vision Basics",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 30m",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Introduction to Computer Vision",
+            "type": "video",
+            "duration": "25m",
+            "completed": false
+          },
+          { "id": 2, "title": "Image Processing Fundamentals", "type": "video", "duration": "30m", "completed": false },
+          { "id": 3, "title": "Feature Extraction", "type": "video", "duration": "35m", "completed": false },
+          { "id": 4, "title": "Image Classification Basics", "type": "code", "duration": "40m", "completed": false },
+          { "id": 5, "title": "OpenCV Basics", "type": "code", "duration": "45m", "completed": false },
+          { "id": 6, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "PyTorch for Computer Vision",
+        "progress": 0,
+        "completed": false,
+        "duration": "4h 15m",
+        "lessons": [
+          { "id": 7, "title": "PyTorch Basics", "type": "video", "duration": "30m", "completed": false },
+          { "id": 8, "title": "Tensors and Operations", "type": "video", "duration": "25m", "completed": false },
+          { "id": 9, "title": "Neural Networks with PyTorch", "type": "video", "duration": "35m", "completed": false },
+          {
+            "id": 10,
+            "title": "Data Loading and Preprocessing",
+            "type": "code",
+            "duration": "40m",
+            "completed": false
+          },
+          { "id": 11, "title": "Training and Evaluation", "type": "code", "duration": "45m", "completed": false },
+          { "id": 12, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Convolutional Neural Networks",
+        "progress": 0,
+        "completed": false,
+        "duration": "4h 30m",
+        "lessons": [
+          { "id": 13, "title": "CNN Architecture", "type": "video", "duration": "30m", "completed": false },
+          { "id": 14, "title": "Convolutional Layers", "type": "video", "duration": "25m", "completed": false },
+          { "id": 15, "title": "Pooling and Normalization", "type": "video", "duration": "25m", "completed": false },
+          { "id": 16, "title": "Classic CNN Architectures", "type": "video", "duration": "35m", "completed": false },
+          { "id": 17, "title": "Transfer Learning", "type": "code", "duration": "45m", "completed": false },
+          {
+            "id": 18,
+            "title": "Image Classification Project",
+            "type": "project",
+            "duration": "60m",
+            "completed": false
+          },
+          { "id": 19, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Object Detection",
+        "progress": 0,
+        "completed": false,
+        "duration": "4h 45m",
+        "lessons": [
+          {
+            "id": 20,
+            "title": "Object Detection Fundamentals",
+            "type": "video",
+            "duration": "30m",
+            "completed": false
+          },
+          { "id": 21, "title": "R-CNN Family", "type": "video", "duration": "35m", "completed": false },
+          { "id": 22, "title": "YOLO Architecture", "type": "video", "duration": "40m", "completed": false },
+          { "id": 23, "title": "SSD Architecture", "type": "video", "duration": "35m", "completed": false },
+          { "id": 24, "title": "Object Detection with PyTorch", "type": "code", "duration": "50m", "completed": false },
+          { "id": 25, "title": "Object Detection Project", "type": "project", "duration": "60m", "completed": false },
+          { "id": 26, "title": "Module Quiz", "type": "quiz", "duration": "15m", "completed": false }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Advanced Topics",
+        "progress": 0,
+        "completed": false,
+        "duration": "3h 45m",
+        "lessons": [
+          { "id": 27, "title": "Semantic Segmentation", "type": "video", "duration": "35m", "completed": false },
+          { "id": 28, "title": "Instance Segmentation", "type": "video", "duration": "40m", "completed": false },
+          {
+            "id": 29,
+            "title": "Generative Adversarial Networks",
+            "type": "video",
+            "duration": "45m",
+            "completed": false
+          },
+          { "id": 30, "title": "Advanced CV Project", "type": "project", "duration": "60m", "completed": false },
+          { "id": 31, "title": "Final Exam", "type": "quiz", "duration": "30m", "completed": false }
+        ]
+      }
+    ]
+  }
+]
+

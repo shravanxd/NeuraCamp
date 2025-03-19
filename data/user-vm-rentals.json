@@ -1,0 +1,60 @@
+[
+  {
+    "id": "rental1",
+    "userId": "user1",
+    "vmId": "vm2",
+    "startDate": "2023-06-10T08:00:00Z",
+    "endDate": "2023-06-15T08:00:00Z",
+    "status": "completed",
+    "totalCost": 75,
+    "paymentStatus": "paid",
+    "usage": {
+      "cpuHours": 120,
+      "ramGBHours": 1920,
+      "storageGBHours": 12000
+    }
+  },
+  {
+    "id": "rental2",
+    "userId": "user1",
+    "vmId": "vm3",
+    "startDate": "2023-06-20T14:00:00Z",
+    "endDate": null,
+    "status": "active",
+    "totalCost": null,
+    "paymentStatus": "pending",
+    "usage": {
+      "cpuHours": 48,
+      "ramGBHours": 1536,
+      "storageGBHours": 9600,
+      "gpuHours": 48
+    }
+  },
+  {
+    "id": "rental3",
+    "userId": "user2",
+    "vmId": "vm1",
+    "startDate": "2023-06-01T10:00:00Z",
+    "endDate": "2023-06-30T10:00:00Z",
+    "status": "completed",
+    "totalCost": 25,
+    "paymentStatus": "paid",
+    "usage": {
+      "cpuHours": 720,
+      "ramGBHours": 2880,
+      "storageGBHours": 36000
+    }
+  },
+  {
+    "id": "rental4",
+    "userId": "user2",
+    "vmId": "vm5",
+    "startDate": "2023-07-01T09:00:00Z",
+    "endDate": null,
+    "status": "scheduled",
+    "totalCost": null,
+    "paymentStatus": "pending",
+    "usage": null
+  }
+]
+

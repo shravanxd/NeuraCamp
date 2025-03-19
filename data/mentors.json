@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sarah-johnson",
+    "name": "Dr. Sarah Johnson",
+    "role": "Lead Data Scientist at TechCorp",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "bio": "Dr. Sarah Johnson has over 10 years of experience in machine learning and data science. She leads the AI research team at TechCorp and has published numerous papers on advanced ML techniques.",
+    "expertise": ["Machine Learning", "Natural Language Processing", "Deep Learning"],
+    "courses": ["advanced-machine-learning", "natural-language-processing"],
+    "rating": 4.9,
+    "students": 18500,
+    "social": {
+      "linkedin": "https://linkedin.com/in/sarahjohnson",
+      "twitter": "https://twitter.com/sarahjohnson",
+      "website": "https://sarahjohnson.com"
+    }
+  },
+  {
+    "id": "alex-chen",
+    "name": "Alex Chen",
+    "role": "Senior Data Scientist at DataTech",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "bio": "Alex Chen specializes in Python programming and data science applications. With 8 years of industry experience, he has helped numerous companies implement data-driven solutions.",
+    "expertise": ["Python", "Data Science", "Computer Vision"],
+    "courses": ["python-for-data-science", "computer-vision-with-pytorch"],
+    "rating": 4.8,
+    "students": 22000,
+    "social": {
+      "linkedin": "https://linkedin.com/in/alexchen",
+      "twitter": "https://twitter.com/alexchen",
+      "github": "https://github.com/alexchen"
+    }
+  },
+  {
+    "id": "maya-patel",
+    "name": "Maya Patel",
+    "role": "AI Researcher at NeuralTech",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "bio": "Maya Patel is an AI researcher focusing on deep learning and neural networks. She has contributed to several open-source projects and is passionate about making AI accessible to everyone.",
+    "expertise": ["Deep Learning", "TensorFlow", "PyTorch"],
+    "courses": ["deep-learning-fundamentals"],
+    "rating": 4.7,
+    "students": 15000,
+    "social": {
+      "linkedin": "https://linkedin.com/in/mayapatel",
+      "github": "https://github.com/mayapatel",
+      "website": "https://mayapatel.com"
+    }
+  },
+  {
+    "id": "jordan-lee",
+    "name": "Jordan Lee",
+    "role": "Data Visualization Expert",
+    "avatar": "/placeholder.svg?height=200&width=200",
+    "bio": "Jordan Lee specializes in data visualization and storytelling with data. He has worked with major media companies to create compelling visual narratives from complex datasets.",
+    "expertise": ["Data Visualization", "Python", "D3.js"],
+    "courses": ["data-visualization-with-python"],
+    "rating": 4.6,
+    "students": 12000,
+    "social": {
+      "linkedin": "https://linkedin.com/in/jordanlee",
+      "twitter": "https://twitter.com/jordanlee",
+      "website": "https://jordanlee.com"
+    }
+  }
+]
+

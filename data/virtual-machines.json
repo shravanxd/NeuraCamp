@@ -1,0 +1,101 @@
+[
+  {
+    "id": "vm1",
+    "name": "Basic Development Environment",
+    "description": "A lightweight virtual machine for web development and basic programming tasks.",
+    "specs": {
+      "cpu": "2 vCPUs",
+      "ram": "4 GB",
+      "storage": "50 GB SSD",
+      "os": "Ubuntu 22.04 LTS"
+    },
+    "hourlyRate": 0.05,
+    "monthlyRate": 25,
+    "tags": ["web development", "programming", "beginner"],
+    "software": ["Node.js", "Python", "Git", "VS Code", "Docker"],
+    "available": true
+  },
+  {
+    "id": "vm2",
+    "name": "Data Science Workstation",
+    "description": "Optimized for data analysis and machine learning tasks. Includes popular data science libraries and frameworks.",
+    "specs": {
+      "cpu": "4 vCPUs",
+      "ram": "16 GB",
+      "storage": "100 GB SSD",
+      "os": "Ubuntu 22.04 LTS"
+    },
+    "hourlyRate": 0.15,
+    "monthlyRate": 75,
+    "tags": ["data science", "machine learning", "analytics"],
+    "software": ["Python", "R", "Jupyter", "TensorFlow", "PyTorch", "scikit-learn", "pandas"],
+    "available": true
+  },
+  {
+    "id": "vm3",
+    "name": "GPU Compute Instance",
+    "description": "High-performance computing with GPU acceleration for deep learning and AI workloads.",
+    "specs": {
+      "cpu": "8 vCPUs",
+      "ram": "32 GB",
+      "storage": "200 GB SSD",
+      "gpu": "NVIDIA T4 (16 GB VRAM)",
+      "os": "Ubuntu 22.04 LTS"
+    },
+    "hourlyRate": 0.6,
+    "monthlyRate": 300,
+    "tags": ["deep learning", "AI", "GPU", "high performance"],
+    "software": ["CUDA", "cuDNN", "TensorFlow", "PyTorch", "Keras", "JAX"],
+    "available": true
+  },
+  {
+    "id": "vm4",
+    "name": "Full-Stack Development Server",
+    "description": "Complete environment for full-stack web application development and testing.",
+    "specs": {
+      "cpu": "4 vCPUs",
+      "ram": "8 GB",
+      "storage": "100 GB SSD",
+      "os": "Ubuntu 22.04 LTS"
+    },
+    "hourlyRate": 0.1,
+    "monthlyRate": 50,
+    "tags": ["web development", "full-stack", "deployment"],
+    "software": ["Node.js", "Python", "MongoDB", "PostgreSQL", "Redis", "Docker", "Nginx"],
+    "available": true
+  },
+  {
+    "id": "vm5",
+    "name": "High-Performance Computing Cluster",
+    "description": "Distributed computing environment for large-scale data processing and scientific computing.",
+    "specs": {
+      "cpu": "16 vCPUs",
+      "ram": "64 GB",
+      "storage": "500 GB SSD",
+      "os": "Ubuntu 22.04 LTS"
+    },
+    "hourlyRate": 0.9,
+    "monthlyRate": 450,
+    "tags": ["HPC", "scientific computing", "big data"],
+    "software": ["Apache Spark", "Hadoop", "MPI", "OpenMP", "SLURM"],
+    "available": true
+  },
+  {
+    "id": "vm6",
+    "name": "Game Development Workstation",
+    "description": "Optimized for game development with GPU acceleration and game engines pre-installed.",
+    "specs": {
+      "cpu": "8 vCPUs",
+      "ram": "16 GB",
+      "storage": "250 GB SSD",
+      "gpu": "NVIDIA T4 (16 GB VRAM)",
+      "os": "Windows Server 2022"
+    },
+    "hourlyRate": 0.4,
+    "monthlyRate": 200,
+    "tags": ["game development", "3D rendering", "GPU"],
+    "software": ["Unity", "Unreal Engine", "Blender", "Visual Studio", "Git LFS"],
+    "available": true
+  }
+]
+
